@@ -1,2 +1,2 @@
 # my_first_repository
-Last question of homework 1
+Last questions of homeworks 1 and 2
